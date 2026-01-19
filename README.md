@@ -54,17 +54,17 @@ Step-by-step guide to install Gothic I/II on Ubuntu using Proton, with separate 
 
 
 
-<!--
-**Yorick0499/yorick0499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h1>Contact 📬</h1>
+</div>
 
-Here are some ideas to get you started:
+You can reach me through the following channels:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Discord:** yorick0405
+  
+  [Message me on Discord](https://discord.com/users/690654432312164486)
+  
+- **Reddit:** Yorick0499
+  
+  [Message me on Reddit](https://www.reddit.com/user/Yorick0499/)
+
