@@ -5,7 +5,7 @@
 - Data Science MSc graduate
 - Open-source and Linux enthusiast
 - Working on data science, machine learning, data scraping and database projects
-- Quest designer in **Golden Gates 2: Goddess Heart**
+- Quest designer in **Golden Gate 2: Goddess Heart**
 - Creator of **Gothic Linux Guide**
 
 <div align="center">
@@ -40,7 +40,7 @@ Predicts NBA game outcomes using historical season data with an XGBoost model.
 
 ## Modding Projects 🎮
 
-### Golden Gates 2: Goddess Heart
+### Golden Gate 2: Goddess Heart
 
 Non-commercial mod for *Gothic II: Night of the Raven*. Contributed as a quest designer.
 
