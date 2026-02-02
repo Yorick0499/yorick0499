@@ -20,7 +20,7 @@ Automatically monitors and fetches new vehicle offers from OtoMoto.pl.
 
 🔗 [View repository](https://github.com/Yorick0499/otomoto-bot)
 
-### WeatherDB
+### Auto Sky Logger
 Automatically collects weather data from the IMGW API for chosen location and stores it in MongoDB. Runs periodically using GitHub Actions.
 
 🔗 [View repository](https://github.com/Yorick0499/WeatherDB)
