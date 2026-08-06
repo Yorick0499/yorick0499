@@ -52,6 +52,11 @@ Step-by-step guide to install Gothic I/II on Ubuntu using Proton, with separate 
 
 🔗 [View website](https://yorick0499.github.io/gothic-linux-guide/)
 
+### Ore & Empire: Colony Chronicles
+Text-based browser MMORPG inspired by the cult-classic game Gothic. It is basically Gothic moved entirely into an old-school browser MMO format! :D
+
+🔗 [View website](https://github.com/Yorick0499/ore-and-empire)
+
 
 
 <div align="center">
