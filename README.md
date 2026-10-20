@@ -107,6 +107,44 @@ Predicts NBA game outcomes using historical season data with an XGBoost model.
 
 <br>
 
+<br>
+
+### Agentic AI
+
+```bash
+~/projects/agentic-ai $ ls
+```
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+#### RSS Agent AI
+
+An automated RSS monitoring agent that collects news, analyzes its content with NVIDIA Nemotron, stores structured results in Supabase, and delivers enriched notifications to Discord.
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41" alt="Python"/>
+<img src="https://img.shields.io/badge/NVIDIA_Nemotron-000000?style=flat-square&logo=nvidia&logoColor=00FF41" alt="NVIDIA Nemotron"/>
+<img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF41" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Discord_Bot-000000?style=flat-square&logo=discord&logoColor=00FF41" alt="Discord Bot"/>
+
+<br><br>
+
+<a href="https://github.com/Yorick0499/feed-agent-ai">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=080808" alt="View repository"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+
 ### Modding
 
 ```bash
